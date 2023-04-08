@@ -24,7 +24,7 @@
     
         <meta property="og:type" content="website">
 <meta property="og:title" content="Hexo">
-<meta property="og:url" content="http://example.com/categories/diary/index.html">
+<meta property="og:url" content="http://example.com/categories/Diary/index.html">
 <meta property="og:site_name" content="Hexo">
 <meta property="og:locale" content="en_US">
 <meta property="article:author" content="John Doe">
@@ -39,7 +39,7 @@
     
     <title>
         
-            Category: diary -
+            Category: Diary -
         
         BoringFunk is here
     </title>
@@ -288,7 +288,7 @@
                     <div class="fade-in-down-animation">
     <div class="category-container">
         <div class="category-name">
-            <i class="fa-solid fa-folder"></i>&nbsp;diary
+            <i class="fa-solid fa-folder"></i>&nbsp;Diary
         </div>
         <div class="category-post-list">
             
@@ -297,13 +297,31 @@
         <section class="archive-item">
             <div class="archive-item-header">
                 <span class="archive-year">2023</span>
-                <span class="archive-year-post-count">[1]</span>
+                <span class="archive-year-post-count">[4]</span>
             </div>
             <ul class="article-list">
               
               <li class="article-item" date-is='04-08'>
                 <a href="/2023/04/08/hardAI/">
                   <span class="article-title">日记:AI原来这么难破解</span>
+                </a>
+              </li>
+              
+              <li class="article-item" date-is='04-08'>
+                <a href="/2023/04/08/My-D-D-with-AI-Jenna/">
+                  <span class="article-title">对话记录:我与AI进行我人生中第一次龙与地下城游戏</span>
+                </a>
+              </li>
+              
+              <li class="article-item" date-is='03-09'>
+                <a href="/2023/03/09/diary2023.3.9/">
+                  <span class="article-title">日记：我和解锁后的Newbing的故事#1</span>
+                </a>
+              </li>
+              
+              <li class="article-item" date-is='03-07'>
+                <a href="/2023/03/07/first-post/">
+                  <span class="article-title">迟来的互联网记录-梵氪</span>
                 </a>
               </li>
               
@@ -535,30 +553,6 @@
             debug: false,
             cacheBust: false,
             timeout: 0,
-            analytics: false,
-            currentUrlFullReload: false,
-            scrollRestoration: false,
-            // scrollTo: true,
-        });
-
-        document.addEventListener('pjax:send', () => {
-            Global.utils.pjaxProgressBarStart();
-        });
-
-        document.addEventListener('pjax:complete', () => {
-            Global.utils.pjaxProgressBarEnd();
-            window.pjax.executeScripts(document.querySelectorAll('script[data-pjax], .pjax script'));
-            Global.refresh();
-        });
-    });
-</script>
-
-
-
-
-</body>
-</html>
-out: 0,
             analytics: false,
             currentUrlFullReload: false,
             scrollRestoration: false,
