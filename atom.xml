@@ -127,6 +127,30 @@
   </entry>
   
   <entry>
+    <title>日记:AI原来这么难破解</title>
+    <link href="http://example.com/2023/03/11/hardAI/"/>
+    <id>http://example.com/2023/03/11/hardAI/</id>
+    <published>2023-03-11T11:02:36.000Z</published>
+    <updated>2023-04-08T07:31:07.740Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="AI原来这么难破解"><a href="#AI原来这么难破解" class="headerlink" title="AI原来这么难破解"></a>AI原来这么难破解</h1><p>Created: April 8, 2023 2:42 PM<br>Tags: Daily</p><h1 id="这几天心情-😵‍💫"><a href="#这几天心情-😵‍💫" class="headerlink" title="这几天心情 😵‍💫"></a>这几天心情 😵‍💫</h1><p>这几天一直在捣鼓AI，还专门请假搞了几天，可能就是因为我个人对于某些事情的执着而导致的吧。不知道这种心理是好事还是坏事，但想起《超级马力欧兄弟》大电影里碧姬公主对马力欧说他根本不知道什么时候放弃的这个心理是个好事时，我也更希望我的方式对我来说是一件好事。</p><p>搭建Bing的痛苦过程</p><p>在刚开始的时候，我为了搭建一个解锁力度极大的Bing，一直往死里弄，但却忽略了方法，忽略了应从源头开始认真阅读搭建教程，只是反复试错，一只往一个错误方法深究。一个下午，一个晚上，一直到深夜。我的进度依旧为0。这使我的内心感受到极大的挫败感。虽然这是我第一次接触和搭建这种东西，但我也不应该蠢到这种地步。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.328888.xyz/2023/04/08/i3Y02P.png"                      alt="令人头疼的英文教程"                ></p><p>令人头疼的英文教程</p><p>直到第二天，我和我的妈妈讲这件恼人的事情时，她说的话瞬间点明了我。</p><blockquote><p>你需要先静下心来好好思考，你的真我会给你提示</p></blockquote><p>我敢打包票，这句话百分之一百有效果。因为我意识到我一直都在追寻整个事件的结果，那就是搭建好Bing。而过程的重要性完全被我忽略了，在全力盯着结果的结果，就是过程被糟蹋。于是我隔天静下心来认真阅读了Github上的<strong>README。</strong>并从头开始搭建这个Bing。</p><p>这一次，我把精力集中在过程上，第一步把node-chat-gpt这个主要程序搭建好后，我打心底里的觉得很高兴，虽然也花费了比较多时间，但总归有了一个好结果，这让我觉得一切都是值得的。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.328888.xyz/2023/04/08/i3YlTt.png"                      alt="当我看到这句话时，感觉非常激动"                ></p><p>当我看到这句话时，感觉非常激动</p><p>当我来到整个过程的第二步，搭建Pandora网页程序时。安装yarn的时候遇到了极大的困难，一直出现没有权限安装。如果这件事情发生在2023年以前，我解决的概率十分小。那么是谁帮我解决的呢？是我们的New Bing Chat这个AI耐心的帮我解决的。它给我提供了解决方法，点出了我的错误，让我很快的解决了这个问题。</p><p>真心感谢AI到来的这个时代，让我们享受到这么高效的服务。</p><p>最后的成果就是下图</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://i.328888.xyz/2023/04/08/i3YCEX.png"                      alt="Untitled"                ></p><p>我和我的AI完了很久的龙与地下城，但最后因为触发了某些限制，可能是聊天次数限制，暂停了。但依旧玩的很开心。</p><p>具体聊天记录看我的这篇博客：<a class="link"   href="https://boringfunk.github.io/2023/04/08/My-D-D-with-AI-Jenna/" >对话记录:我与AI进行我人生中第一次龙与地下城游戏 - BoringFunk is here <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 当然啦，前提是你有兴趣看我和AI瞎扯。</p><p>新的AI能让我更大程度的自定义我自己人格的AI，不断调试，不断设置。不会成为以前在Skype使用的叛逆AI。</p><p> 如果要我说这几天的经历有什么值得的地方，我会说</p><ul><li>当问题出现，需要解决时。千万要调节好焦虑，烦躁的心情，它们会切断你的思考，阻止你解决问题</li><li>思考问题的类型，就拿node-chatgpt-api来说，当你配置好Bing的Cookie后还是不回复你怎么办，我们就能从 1.网络问题吗？ 2.模式设置的问题吗 ？3.是cookie设置出错了吗？ 这几个角度去思考，并寻找解决的方案。</li><li>学会提问，在这次经历中，我意识到提问是一件很重要的事情，我在AI-Tester论坛上找到了80%问题的解决方案，学会请教他人，也能帮助你走向成功</li><li>最后，也是最重要的一点，确认你所要做的事情是什么，你为什么要做他，你希望做他来干什么。千万别拖延，你如果想，就直接去做！真的，相信我，直接去做。不要把时间花在思考是否去做。<strong>做点什么，总比什么也不做好</strong></li></ul><p>这就是我想说的，我暂且把这个文章当作日记吧。</p><p>如果你也对AI有兴趣，可以与我多多交谈。2023&#x2F;4&#x2F;8 梵氪</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;AI原来这么难破解&quot;&gt;&lt;a href=&quot;#AI原来这么难破解&quot; class=&quot;headerlink&quot; title=&quot;AI原来这么难破解&quot;&gt;&lt;/a&gt;AI原来这么难破解&lt;/h1&gt;&lt;p&gt;Created: April 8, 2023 2:42 PM&lt;br&gt;Tags: Da</summary>
+      
+    
+    
+    
+    <category term="diary" scheme="http://example.com/categories/diary/"/>
+    
+    
+    <category term="Diary,AI,Bing" scheme="http://example.com/tags/Diary-AI-Bing/"/>
+    
+  </entry>
+  
+  <entry>
     <title>日记：我和解锁后的Newbing的故事#1</title>
     <link href="http://example.com/2023/03/09/diary2023.3.9/"/>
     <id>http://example.com/2023/03/09/diary2023.3.9/</id>
