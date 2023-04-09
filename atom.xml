@@ -126,9 +126,9 @@
     <category term="tutorial" scheme="http://example.com/categories/tutorial/"/>
     
     
-    <category term="AI" scheme="http://example.com/tags/AI/"/>
-    
     <category term="tutorial" scheme="http://example.com/tags/tutorial/"/>
+    
+    <category term="AI" scheme="http://example.com/tags/AI/"/>
     
     <category term="Bing" scheme="http://example.com/tags/Bing/"/>
     
